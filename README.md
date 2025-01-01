@@ -24,6 +24,10 @@ This project is a React Native application that features a **Login** and **Signu
 
 
 ---
+##Images of assignment
+![1](./src/assets/1.png)
+![2](./src/assets/2.png)
+![3](./src/assets/3.png)
 
 ## How to Run the Project
 
