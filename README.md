@@ -13,7 +13,6 @@ This project is a React Native application that features a **Login** and **Signu
 
 - **Login Form:**
   - Input fields for email and password.
-  - "Remember Me" functionality to auto-fill previously saved credentials.
 
 - **Signup Form:**
   - Input fields for email, password, and confirm password.
